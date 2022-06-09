@@ -13,14 +13,14 @@ export default function Home() {
 
       <main className={styles.main}>
         <p className={styles.header}>
-          Uehara's Portfolio
+          Uehara&apos;s Portfolio
         </p>
 
         <p className={styles.description}>
           Portfolio of Hiroshi Uehara
         </p>
           <h2>Introduction</h2>
-          <Image src = "/myavatar.jpg" width="150px" height="150px" ></img>
+          <Image src = "/myavatar.jpg" width="150px" height="150px" alt="icon"/>
             <ul>
               <li>静岡大学 情報学部 情報社会学科2年</li>
               <li>2002年6月24日生まれ</li>
